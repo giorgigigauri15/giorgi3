@@ -1,0 +1,116 @@
+.headlogo {
+    margin-left: 140px;
+    margin-top: 50px;
+    color: #27187F;
+    font-family: Ubuntu;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 1400;
+    line-height: normal;
+    display: inline-block;
+}
+
+.li1 {
+    color: #27187F;
+    font-family: Ubuntu;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 1000;
+    line-height: normal;
+    display: inline-block;
+    margin-left: 1000px;
+}
+
+.li2 {
+    color: #758BFD;
+    font-family: Ubuntu;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 1000;
+    line-height: normal;
+    display: inline-block;
+    margin-left: 150px;
+
+
+
+}
+
+.border1 {
+    border-radius: 10px;
+    border: 3px solid #27187F;
+    display: flex;
+    width: 221px;
+    height: 56px;
+    padding-left: 0px;
+    justify-content: flex-end;
+    align-items: center;
+    flex-shrink: 0;
+    margin-left: 2000px;
+    vertical-align: middle;
+}
+.section1{
+    background-color: #758BFD;height: 800px;
+}
+.section{
+    border-radius: 10px;
+    border: 3px solid #27187F;
+    display: flex;
+    width: 400px;
+    height: 250px;
+    padding-left: 0px;
+    justify-content: flex-end;
+    align-items: center;
+    flex-shrink: 0;
+    margin-left: 2000px;
+    vertical-align: middle;
+    margin-left: 100px;
+    display: inline;
+    color: #27187F;
+    margin-top: 100px; margin-left: 250px;
+}
+
+.sectiontitle{
+    color: #27187F;
+font-family: Ubuntu;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.footer1{
+    background-color: blue; height: 300px;
+}
+.contact{
+    color: #00CAD7;
+font-family: Century Gothic;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 17px; /* 85% */
+letter-spacing: 0.2px;
+margin-top: 100px;
+margin-left: 100px;
+
+}
+.mailcontact{
+    color: #FFF;
+font-family: Century Gothic;
+font-size: 13px;
+font-style: normal;
+font-weight: 400;
+line-height: 17px; /* 130.769% */
+letter-spacing: 0.2px;
+}
+.contacts{
+    margin-top: 50px;
+    margin-left:30px;
+}
+.contacts2{
+    margin-left: 30px;
+}
+.contacts3{
+    margin-left: 30px;
+}
+.contacts4{
+    margin-left: 30px;
+}
